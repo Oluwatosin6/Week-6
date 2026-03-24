@@ -4,6 +4,6 @@ class hello_world{
         Greetings();
     }
  public static void Greetings(){ 
-    System.out.println("Hello World");
+    System.out.println("Your cooked ");
 }
 }
